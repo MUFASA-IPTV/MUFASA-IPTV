@@ -7,7 +7,7 @@
 <info>
 
 
-[COLOR gold]|[/COLOR]- OS MELHORES LANÇAMENTOS -[COLOR gold]|[/COLOR]</info>
+[COLOR gold]|[/COLOR] [B][COLOR blue]- OS MELHORES FILMES -[/COLOR][/B] [COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -15,14 +15,14 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR] [B][COLOR gold]SÉRIES[/COLOR][/B] [COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR] [B][COLOR blue]SÉRIES[/COLOR][/B] [COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
 <thumbnail>https://ia801401.us.archive.org/26/items/categorias_201909/S%C3%A9ries.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MUFASA-IPTV/MUFASA-IPTV/master/S%C3%89RIES</externallink>
 <fanart>https://ia801500.us.archive.org/32/items/fanart_20190909_1853/fanart.jpg</fanart>
 <info>
 
 
-[COLOR gold]|[/COLOR]- AS MELHORES SÉRIES -[COLOR gold]|[/COLOR]</info>
+[COLOR gold]|[/COLOR] [B][COLOR blue]- AS MELHORES SÉRIES -[/B][/COLOR] [COLOR gold]|[/COLOR]</info>
 </channel>
 </channels>
 
@@ -37,7 +37,7 @@
 <info>
 
 
-[COLOR red]|[/COLOR]- DIVERSÃO PARA ADULTOS -[COLOR red]|[/COLOR]</info>
+[COLOR red]|[/COLOR] [B][COLOR red]- DIVERSÃO PARA ADULTOS -[/B][/COLOR] [COLOR red]|[/COLOR]</info>
 </channel>
 </channels>
 
