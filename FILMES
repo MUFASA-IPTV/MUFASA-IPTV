@@ -1,5 +1,20 @@
 <channels>
 <channel>
+<name>[COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR] [B][COLOR gold]FILMES[/COLOR][/B] [COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
+<thumbnail>https://ia801401.us.archive.org/26/items/categorias_201909/Filmes.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801500.us.archive.org/32/items/fanart_20190909_1853/fanart.jpg</fanart>
+<info>
+
+
+[COLOR gold]|[/COLOR] [B][COLOR blue]- OS MELHORES FILMES -[/COLOR][/B] [COLOR gold]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR gold]FILMES -[/COLOR][/B] [B][COLOR blue]ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail>https://ia601501.us.archive.org/16/items/categorias2/Anima%C3%A7%C3%A3o.png</thumbnail>
 <externallink>#</externallink>
