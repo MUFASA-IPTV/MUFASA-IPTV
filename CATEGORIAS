@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR] [B][COLOR gold]FILMES[/COLOR][/B] [COLOR gold]|[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR] [B][COLOR gold]FILMES[/COLOR][/B] [COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
 <thumbnail>https://ia801401.us.archive.org/26/items/categorias_201909/Filmes.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MUFASA-IPTV/MUFASA-IPTV/master/FILMES</externallink>
 <fanart>https://ia801500.us.archive.org/32/items/fanart_20190909_1853/fanart.jpg</fanart>
@@ -15,7 +15,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR] [B][COLOR gold]SÉRIES[/COLOR][/B] [COLOR gold]|[/COLOR]</name>
+<name>[COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR] [B][COLOR gold]SÉRIES[/COLOR][/B] [COLOR gold]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR gold]|||[/COLOR]</name>
 <thumbnail>https://ia801401.us.archive.org/26/items/categorias_201909/S%C3%A9ries.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MUFASA-IPTV/MUFASA-IPTV/master/S%C3%89RIES</externallink>
 <fanart>https://ia801500.us.archive.org/32/items/fanart_20190909_1853/fanart.jpg</fanart>
@@ -30,7 +30,7 @@
 
 <channels>
 <channel>
-<name>[COLOR red]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR red]|||[/COLOR] [B][COLOR red]ADULTOS +18[/COLOR][/B] [COLOR red]|[/COLOR]</name>
+<name>[COLOR red]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR red]|||[/COLOR] [B][COLOR red]ADULTOS +18[/COLOR][/B] [COLOR red]|||[/COLOR][COLOR blue]|||[/COLOR][COLOR red]|||[/COLOR]</name>
 <thumbnail>https://ia601401.us.archive.org/26/items/categorias_201909/Adultos%20%2B18.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/MUFASA-IPTV/MUFASA-IPTV/master/ADULTOS%20%2B18</externallink>
 <fanart>https://ia801500.us.archive.org/32/items/fanart_20190909_1853/fanart.jpg</fanart>
